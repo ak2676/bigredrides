@@ -1,0 +1,7 @@
+version: "1"
+
+services:
+  assignment:
+    image: ak2676/bigredrides
+    ports:
+      - "80:8000"
